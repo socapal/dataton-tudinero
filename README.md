@@ -9,4 +9,5 @@ Nuestro eje de investigación explora la relación entre la distribución poblac
 
 Aplicación web:
 https://jorgehcas1998.shinyapps.io/Dataton-app/#project
-Proyecto de Jorge Hernández, Eugenio Mora y Sebastián Ocampo
+
+Proyecto de Jorge Valente Castelán Hernández, Eugenio José Mora Zamora y Sebastián Ocampo Palacios.
