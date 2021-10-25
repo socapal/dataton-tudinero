@@ -8,7 +8,7 @@ Nuestro eje de investigación explora la relación entre la distribución poblac
 
 
 Aplicación web:
-https://jorgehcas1998.shinyapps.io/Dataton-app/#project
+https://jorgehcas1998.shinyapps.io/Dataton-app/
 
 Reporte:
 https://github.com/socapal/dataton-tudinero/blob/main/Datapunks%20-%20Propuesta%20Datat%C3%B3n%20CDMX%202021.pdf
