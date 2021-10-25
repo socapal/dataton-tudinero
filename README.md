@@ -13,4 +13,4 @@ https://jorgehcas1998.shinyapps.io/Dataton-app/
 Reporte:
 https://github.com/socapal/dataton-tudinero/blob/main/Datapunks%20-%20Propuesta%20Datat%C3%B3n%20CDMX%202021.pdf
 
-Proyecto de Jorge Valente Castelán Hernández, Eugenio José Mora Zamora y Sebastián Ocampo Palacios.
+Proyecto de Jorge Valente Hernández Castelán, Eugenio José Mora Zamora y Sebastián Ocampo Palacios.
